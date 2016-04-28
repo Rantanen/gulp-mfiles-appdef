@@ -1,0 +1,27 @@
+{
+  "name": "gulp-mfiles-appdef",
+  "version": "0.0.0",
+  "description": "Gulp plugin for transforming appdef.json to M-Files appdef.xml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rantanen/gulp-mfiles-appdef.git"
+  },
+  "keywords": [
+    "gulp",
+    "m-files"
+  ],
+  "author": "Mikko Rantanen <jubjub@jubjubnest.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rantanen/gulp-mfiles-appdef/issues"
+  },
+  "homepage": "https://github.com/Rantanen/gulp-mfiles-appdef#readme",
+  "dependencies": {
+    "through2": "^2.0.1",
+    "xmlbuilder": "^8.2.2"
+  }
+}
