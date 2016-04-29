@@ -31,7 +31,7 @@ module.exports = function() {
         Object.keys( appdef.environments ).forEach( function( e ) {
 
             var env = appdef.environments[ e ];
-            xml = xml.ele( 'module', { environments: e } );
+            xml = xml.ele( 'module', { environment: e } );
 
             env.files.forEach( function( file ) {
                 xml.ele( 'file', file );
