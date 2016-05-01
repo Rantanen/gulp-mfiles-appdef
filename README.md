@@ -13,7 +13,7 @@ Example
 -------
 
 ### appdef.json:
-```
+```json
 {
     "guid": "b1915115-931c-4279-86ea-6edb9e5a23b8",
     "name": "M-Files Sample Application",
