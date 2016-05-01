@@ -38,7 +38,7 @@ module.exports = function( opts ) {
         writeIfExists( 'description' );
         writeIfExists( 'publisher' );
         writeIfExists( 'copyright' );
-        writeIfExists( 'requiredMFilesVersion', 'required-mfiles-version' );
+        writeIfExists( 'required-mfiles-version' );
         writeIfExists( 'optional' );
 
         // Create the modules.
