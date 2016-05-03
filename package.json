@@ -1,6 +1,6 @@
 {
   "name": "gulp-mfiles-appdef",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Gulp plugin for transforming appdef.json to M-Files appdef.xml",
   "main": "index.js",
   "scripts": {
